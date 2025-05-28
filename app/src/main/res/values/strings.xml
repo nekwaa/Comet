@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Comet</string>
+
+    <string name="search_clicked">Search tab clicked</string>
+    <string name="settings_clicked">Settings clicked</string>
+    <string name="edit_profile_clicked">Edit Profile clicked</string>
+    <string name="payment_methods_clicked">Payment Methods clicked</string>
+    <string name="addresses_clicked">Addresses clicked</string>
+    <string name="notifications_clicked">Notifications clicked</string>
+    <string name="help_center_clicked">Help Center clicked</string>
+    <string name="feedback_clicked">Send Feedback clicked</string>
+    <string name="logout_clicked">Logout clicked</string>
+    <string name="categories_list_description">List of service categories</string>
+    <string name="chat_messages_list">Chat message history</string>
+    <string name="service_categories_list">Available service categories</string>
+    <string name="activity_history_list">Activity history and logs</string>
+    <string name="message_conversations_list">Message conversations</string>
+</resources>

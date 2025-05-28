@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536820613047",
+    "project_id": "comet-63c89",
+    "storage_bucket": "comet-63c89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536820613047:android:338f03446af1e9fac53232",
+        "android_client_info": {
+          "package_name": "com.example.comet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536820613047-qbtdhmqh8pgd94ll3fm73r4itg9dbmr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfRTk5zjDMxuNKiizkJ-axJZcNqNOAKo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536820613047-qbtdhmqh8pgd94ll3fm73r4itg9dbmr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
